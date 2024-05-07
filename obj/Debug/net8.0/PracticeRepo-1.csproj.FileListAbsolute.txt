@@ -1,0 +1,14 @@
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\bin\Debug\net8.0\PracticeRepo-1.exe
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\bin\Debug\net8.0\PracticeRepo-1.deps.json
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\bin\Debug\net8.0\PracticeRepo-1.runtimeconfig.json
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\bin\Debug\net8.0\PracticeRepo-1.dll
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\bin\Debug\net8.0\PracticeRepo-1.pdb
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.AssemblyInfoInputs.cache
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.AssemblyInfo.cs
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.dll
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\refint\PracticeRepo-1.dll
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.pdb
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\PracticeRepo-1.genruntimeconfig.cache
+C:\Users\Gabe\Downloads\Programming 2\PracticeRepo-1\obj\Debug\net8.0\ref\PracticeRepo-1.dll
